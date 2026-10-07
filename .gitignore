@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+*.log
+.DS_Store
+ml_service/.venv/
+ml_service/data/
+__pycache__/
